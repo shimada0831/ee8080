@@ -568,7 +568,7 @@ var emu;
     $("#loadwm").click(function (evt) { loadDiskWithComplete("wrdmastr.bin.exe"); });
     // comment out after Z80 supported
     //$("#loadzsid").click((evt) => { loadDiskWithComplete("zsid.bin.exe"); });
-    //$("#loadtpas30").click((evt) => { loadDiskWithComplete("tpas30.bin.exe"); });
+    $("#loadtpas30").click(function (evt) { loadDiskWithComplete("tpas30.bin.exe"); });
     $("#loadcc1").click(function (evt) { loadDiskWithComplete("ccdisk1.bin.exe"); });
     $("#loadcc2").click(function (evt) { loadDiskWithComplete("ccdisk2.bin.exe"); });
     $("#loadSoureceBios").click(function (evt) { loadBiosSource(null); });

@@ -286,6 +286,7 @@
             <li><a data-rel="back" class="anchor" href="#" id="loadwm">WordMaster</a></li>
             <li><a data-rel="back" class="anchor" href="#" id="loadcc1">Creative Computing's BASIC Games(1)</a></li>
             <li><a data-rel="back" class="anchor" href="#" id="loadcc2">Creative Computing's BASIC Games(2)</a></li>
+            <li><a data-rel="back" class="anchor" href="#" id="loadtpas30">Turbo Pascal 3.0</a></li>
         </ul>
     </div>
 
